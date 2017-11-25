@@ -1,2 +1,0 @@
-# dansbot
-Test discord bot
